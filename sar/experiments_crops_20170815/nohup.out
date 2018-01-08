@@ -1,0 +1,198 @@
+[I 08:21:10.561 NotebookApp] The port 8888 is already in use, trying another port.
+[I 08:21:10.567 NotebookApp] Serving notebooks from local directory: /home/ubuntu/git/learningWithKaggle/sar/experiments_crops_20170815
+[I 08:21:10.567 NotebookApp] 0 active kernels 
+[I 08:21:10.567 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:8889/
+[I 08:21:10.567 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 08:23:29.988 NotebookApp] received signal 15, stopping
+[I 08:23:29.991 NotebookApp] Shutting down kernels
+Error executing Jupyter command '8889': [Errno 2] No such file or directory
+[C 08:25:17.032 NotebookApp] No such file or directory: /home/ubuntu/git/learningWithKaggle/sar/experiments_crops_20170815/notebook
+[I 08:25:48.846 NotebookApp] Serving notebooks from local directory: /home/ubuntu/git/learningWithKaggle/sar/experiments_crops_20170815
+[I 08:25:48.847 NotebookApp] 0 active kernels 
+[I 08:25:48.847 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:8889/
+[I 08:25:48.847 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 08:30:41.877 NotebookApp] error on read: [SSL: TLSV1_ALERT_UNKNOWN_CA] tlsv1 alert unknown ca (_ssl.c:1769)
+[I 08:30:45.899 NotebookApp] 302 GET /tree? (62.172.108.3) 1.58ms
+[I 08:30:49.184 NotebookApp] 302 POST /login?next=%2Ftree%3F (62.172.108.3) 1.86ms
+[I 08:31:47.363 NotebookApp] Kernel started: aa605bc4-139e-4a59-8ebf-151915f15d3b
+[I 08:32:03.504 NotebookApp] Kernel started: 60565332-b191-41d3-9267-55e562f009dc
+2017-08-22 08:33:47.578351: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-22 08:33:47.578391: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-22 08:33:47.578401: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-22 08:33:47.578409: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-22 08:33:47.578416: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 08:34:03.647 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 08:36:03.652 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 08:40:03.640 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 10:44:03.611 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 10:46:03.603 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 11:24:03.599 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 11:26:03.597 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 11:31:34.627 NotebookApp] Copying 1.1-mph_as_kd-baseline-simple_CNN_from_scratch.ipynb to 
+[W 11:31:34.741 NotebookApp] Notebook 1.1-mph_as_kd-baseline-simple_CNN_from_scratch.ipynb is not trusted
+[W 11:31:34.809 NotebookApp] Saving untrusted notebook 1.1-mph_as_kd-baseline-simple_CNN_from_scratch-Copy1.ipynb
+[W 11:31:37.442 NotebookApp] Notebook 1.1-mph_as_kd-baseline-simple_CNN_from_scratch-Copy1.ipynb is not trusted
+[I 11:31:40.486 NotebookApp] Kernel started: 7f05b9eb-aa8a-42ad-9b83-911041d40bf4
+[I 11:32:03.600 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 11:33:50.692 NotebookApp] Kernel started: 117a2d4d-c9a5-40b5-a6ec-cd49c178be70
+[I 11:34:03.619 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 11:36:03.623 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 11:38:03.711 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 11:40:03.687 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 11:42:03.705 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 11:44:03.692 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 11:46:03.683 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 11:48:03.679 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 11:50:03.668 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 11:52:03.682 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 11:54:03.645 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:10:02.291 NotebookApp] Kernel started: 00678ad7-e8ec-446a-a62e-c4df3523eae1
+[I 12:10:03.782 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:12:03.686 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:13:26.046 NotebookApp] Kernel interrupted: 60565332-b191-41d3-9267-55e562f009dc
+[I 12:14:03.607 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:16:02.366 NotebookApp] Kernel interrupted: 60565332-b191-41d3-9267-55e562f009dc
+[I 12:16:03.633 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:18:03.931 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:20:03.624 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:22:03.600 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:24:03.590 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:26:03.657 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:28:03.686 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:30:03.618 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:32:03.695 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:34:03.723 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:36:03.702 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:36:44.679 NotebookApp] Kernel interrupted: 60565332-b191-41d3-9267-55e562f009dc
+[I 12:37:18.319 NotebookApp] Kernel restarted: 60565332-b191-41d3-9267-55e562f009dc
+2017-08-22 12:37:38.285729: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-22 12:37:38.285762: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-22 12:37:38.285771: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-22 12:37:38.285779: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-22 12:37:38.285787: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 12:38:03.610 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:40:03.831 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:42:03.574 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:44:03.556 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:46:03.590 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:47:22.668 NotebookApp] Kernel restarted: 60565332-b191-41d3-9267-55e562f009dc
+[I 12:48:03.588 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+2017-08-22 12:48:58.706303: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-22 12:48:58.706344: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-22 12:48:58.706354: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-22 12:48:58.706363: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-22 12:48:58.706379: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 12:49:01.083 NotebookApp] Kernel interrupted: 60565332-b191-41d3-9267-55e562f009dc
+[W 12:49:34.139 NotebookApp] Notebook 1.1-mph_as_kd-baseline-simple_CNN_from_scratch-Copy1.ipynb is not trusted
+[I 12:50:03.603 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[W 12:50:12.885 NotebookApp] Notebook 2.1-mph_as-best_baseline_with_distance_feature.ipynb is not trusted
+[I 12:50:14.843 NotebookApp] Kernel started: 5e558f67-2867-4e88-84f9-01dd8bf6db1c
+[I 12:51:07.236 NotebookApp] Kernel interrupted: 60565332-b191-41d3-9267-55e562f009dc
+[I 12:52:03.600 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:53:37.410 NotebookApp] Saving file at /6.0-as-more_layers_more_dropout.ipynb
+[W 12:53:37.423 NotebookApp] Saving untrusted notebook 6.0-as-more_layers_more_dropout.ipynb
+[I 12:54:03.582 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:55:37.394 NotebookApp] Saving file at /6.0-as-more_layers_more_dropout.ipynb
+[W 12:55:37.407 NotebookApp] Saving untrusted notebook 6.0-as-more_layers_more_dropout.ipynb
+[I 12:56:03.593 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:57:02.779 NotebookApp] Kernel started: f4cc6156-e6d5-4673-8fd5-ea0d3064aef4
+[I 12:57:37.438 NotebookApp] Saving file at /6.0-as-more_layers_more_dropout.ipynb
+[W 12:57:37.452 NotebookApp] Saving untrusted notebook 6.0-as-more_layers_more_dropout.ipynb
+[I 12:58:03.591 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 12:59:37.427 NotebookApp] Saving file at /6.0-as-more_layers_more_dropout.ipynb
+[W 12:59:37.440 NotebookApp] Saving untrusted notebook 6.0-as-more_layers_more_dropout.ipynb
+[I 13:00:03.578 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 13:02:03.577 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[W 13:12:46.629 NotebookApp] Notebook 1.1-mph_as_kd-baseline-simple_CNN_from_scratch.ipynb is not trusted
+[I 13:12:49.669 NotebookApp] Kernel started: fcd77714-840e-4cd2-bdfc-6675107ed90c
+[W 13:12:54.192 NotebookApp] Notebook 2.1-mph_as-best_baseline_with_distance_feature.ipynb is not trusted
+[I 13:13:37.440 NotebookApp] Saving file at /6.0-as-more_layers_more_dropout.ipynb
+[W 13:13:37.455 NotebookApp] Saving untrusted notebook 6.0-as-more_layers_more_dropout.ipynb
+[I 13:14:03.657 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[W 13:14:38.490 NotebookApp] Notebook 1.1-mph_as_kd-baseline-simple_CNN_from_scratch.ipynb is not trusted
+[W 13:14:39.236 NotebookApp] 404 GET /nbconvert/html/custom.css (62.172.108.3): No such file or directory: custom.css
+[W 13:14:39.249 NotebookApp] 404 GET /nbconvert/html/custom.css (62.172.108.3) 21.36ms referer=https://34.250.179.48:8889/nbconvert/html/1.1-mph_as_kd-baseline-simple_CNN_from_scratch.ipynb?download=false
+[W 13:14:39.426 NotebookApp] 404 GET /nbconvert/html/custom.css (62.172.108.3): No such file or directory: custom.css
+[W 13:14:39.428 NotebookApp] 404 GET /nbconvert/html/custom.css (62.172.108.3) 10.15ms referer=https://34.250.179.48:8889/nbconvert/html/1.1-mph_as_kd-baseline-simple_CNN_from_scratch.ipynb?download=false
+[W 13:14:41.513 NotebookApp] 404 GET /favicon.ico (62.172.108.3) 2.21ms referer=None
+[W 13:14:41.548 NotebookApp] 404 GET /favicon.ico (62.172.108.3) 1.99ms referer=None
+[I 13:15:06.185 NotebookApp] Copying 1.1-mph_as_kd-baseline-simple_CNN_from_scratch.ipynb to 
+[W 13:15:06.375 NotebookApp] Notebook 1.1-mph_as_kd-baseline-simple_CNN_from_scratch.ipynb is not trusted
+[W 13:15:06.502 NotebookApp] Saving untrusted notebook 1.1-mph_as_kd-baseline-simple_CNN_from_scratch-Copy1.ipynb
+[W 13:15:08.924 NotebookApp] Notebook 1.1-mph_as_kd-baseline-simple_CNN_from_scratch-Copy1.ipynb is not trusted
+[I 13:15:12.247 NotebookApp] Kernel started: c2b2b2ec-782b-485f-91b9-57d6636e07a4
+[I 13:15:18.017 NotebookApp] Kernel shutdown: fcd77714-840e-4cd2-bdfc-6675107ed90c
+[I 13:16:03.592 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[W 13:16:41.780 NotebookApp] Notebook 1.1-mph_as_kd-baseline-simple_CNN_from_scratch.ipynb is not trusted
+[I 13:16:44.908 NotebookApp] Kernel started: 4448681b-0071-4d90-b2d6-22b3ef9b03b8
+[I 13:17:12.314 NotebookApp] Saving file at /1.1-Best-model_batchnorm.ipynb
+[W 13:17:12.315 NotebookApp] Saving untrusted notebook 1.1-Best-model_batchnorm.ipynb
+[I 13:17:28.117 NotebookApp] Saving file at /1.1-Best-model_batchnorm.ipynb
+[W 13:17:28.117 NotebookApp] Saving untrusted notebook 1.1-Best-model_batchnorm.ipynb
+[W 13:17:32.627 NotebookApp] Notebook 1.1-Best-model_batchnorm.ipynb is not trusted
+[I 13:18:03.591 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 13:20:03.663 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[W 13:20:22.281 NotebookApp] Notebook 1.1-Best-model_batchnorm.ipynb is not trusted
+[W 13:20:22.631 NotebookApp] 404 GET /nbconvert/html/custom.css (62.172.108.3): No such file or directory: custom.css
+[W 13:20:22.633 NotebookApp] 404 GET /nbconvert/html/custom.css (62.172.108.3) 9.72ms referer=https://34.250.179.48:8889/nbconvert/html/1.1-Best-model_batchnorm.ipynb?download=false
+[I 13:22:03.720 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 13:23:03.191 NotebookApp] Kernel shutdown: c2b2b2ec-782b-485f-91b9-57d6636e07a4
+[I 13:23:03.596 NotebookApp] Kernel shutdown: 4448681b-0071-4d90-b2d6-22b3ef9b03b8
+[W 13:23:05.850 NotebookApp] Notebook 2.1-mph_as-best_baseline_with_distance_feature.ipynb is not trusted
+[I 13:23:21.833 NotebookApp] Kernel shutdown: 5e558f67-2867-4e88-84f9-01dd8bf6db1c
+[I 13:23:24.784 NotebookApp] Copying 2.1-mph_as-best_baseline_with_distance_feature.ipynb to 
+[W 13:23:24.865 NotebookApp] Notebook 2.1-mph_as-best_baseline_with_distance_feature.ipynb is not trusted
+[W 13:23:24.938 NotebookApp] Saving untrusted notebook 2.1-mph_as-best_baseline_with_distance_feature-Copy1.ipynb
+[W 13:23:27.306 NotebookApp] Notebook 2.1-mph_as-best_baseline_with_distance_feature-Copy1.ipynb is not trusted
+[I 13:23:29.379 NotebookApp] Kernel started: d3f1cd92-9d09-481c-ad4a-a66c5df01743
+[I 13:24:03.709 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 13:24:27.734 NotebookApp] Kernel started: 994aabba-1f43-4467-bd0e-8df811922abf
+[W 13:24:30.974 NotebookApp] Notebook 2.1-mph_as-best_baseline_with_distance_feature.ipynb is not trusted
+[I 13:24:32.975 NotebookApp] Kernel started: bc564dc2-e7f7-409f-b7e3-e1bdd3e97c4a
+[I 13:25:10.181 NotebookApp] Saving file at /2.1-Best-model_later_dense.ipynb
+[W 13:25:10.182 NotebookApp] Saving untrusted notebook 2.1-Best-model_later_dense.ipynb
+[W 13:25:10.268 NotebookApp] Notebook 2.1-Best-model_later_dense.ipynb is not trusted
+[W 13:25:10.620 NotebookApp] 404 GET /nbconvert/html/custom.css (62.172.108.3): No such file or directory: custom.css
+[W 13:25:10.622 NotebookApp] 404 GET /nbconvert/html/custom.css (62.172.108.3) 8.77ms referer=https://34.250.179.48:8889/nbconvert/html/2.1-Best-model_later_dense.ipynb?download=false
+[I 13:26:01.708 NotebookApp] Kernel shutdown: 994aabba-1f43-4467-bd0e-8df811922abf
+[I 13:26:02.118 NotebookApp] Kernel shutdown: bc564dc2-e7f7-409f-b7e3-e1bdd3e97c4a
+[I 13:26:02.522 NotebookApp] Kernel shutdown: d3f1cd92-9d09-481c-ad4a-a66c5df01743
+[I 13:26:03.608 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 13:27:37.423 NotebookApp] Saving file at /6.0-as-more_layers_more_dropout.ipynb
+[W 13:27:37.437 NotebookApp] Saving untrusted notebook 6.0-as-more_layers_more_dropout.ipynb
+[I 13:29:37.275 NotebookApp] Saving file at /6.0-as-more_layers_more_dropout.ipynb
+[I 13:30:03.576 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 13:31:01.157 NotebookApp] Kernel shutdown: f4cc6156-e6d5-4673-8fd5-ea0d3064aef4
+[I 13:31:01.928 NotebookApp] Kernel shutdown: aa605bc4-139e-4a59-8ebf-151915f15d3b
+[I 13:31:37.244 NotebookApp] Saving file at /6.0-as-more_layers_more_dropout.ipynb
+[I 13:32:03.571 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 13:33:14.629 NotebookApp] Kernel started: 997fa0dd-e0e2-4c54-b60d-245e1e56b664
+[I 13:34:03.582 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 13:34:08.249 NotebookApp] Copying 4.0-as-FCN.ipynb to 
+[I 13:34:15.371 NotebookApp] Kernel started: 69b39b08-4589-4d06-8f0c-23eee4d5a634
+[I 13:35:28.895 NotebookApp] Saving file at /4.0-Best-FCN_first_run.ipynb
+[W 13:35:29.365 NotebookApp] 404 GET /nbconvert/html/custom.css (62.172.108.3): No such file or directory: custom.css
+[W 13:35:29.366 NotebookApp] 404 GET /nbconvert/html/custom.css (62.172.108.3) 9.61ms referer=https://34.250.179.48:8889/nbconvert/html/4.0-Best-FCN_first_run.ipynb?download=false
+[I 13:36:03.576 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+[I 13:37:52.835 NotebookApp] Kernel shutdown: 997fa0dd-e0e2-4c54-b60d-245e1e56b664
+[I 13:37:53.241 NotebookApp] Kernel shutdown: 69b39b08-4589-4d06-8f0c-23eee4d5a634
+[I 13:38:03.599 NotebookApp] Saving file at /4.1-as-FCN.ipynb
+2017-08-22 13:38:10.058220: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-22 13:38:10.058262: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-22 13:38:10.058272: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-22 13:38:10.058281: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-08-22 13:38:10.058289: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+[I 13:39:37.250 NotebookApp] Saving file at /6.0-as-more_layers_more_dropout.ipynb
+[I 13:41:37.351 NotebookApp] Saving file at /6.0-as-more_layers_more_dropout.ipynb
+[I 13:43:37.313 NotebookApp] Saving file at /6.0-as-more_layers_more_dropout.ipynb
+[I 13:45:37.331 NotebookApp] Saving file at /6.0-as-more_layers_more_dropout.ipynb
+[I 13:47:37.328 NotebookApp] Saving file at /6.0-as-more_layers_more_dropout.ipynb
+[I 13:49:37.351 NotebookApp] Saving file at /6.0-as-more_layers_more_dropout.ipynb
+[I 13:51:37.331 NotebookApp] Saving file at /6.0-as-more_layers_more_dropout.ipynb
+[I 13:53:37.243 NotebookApp] Saving file at /6.0-as-more_layers_more_dropout.ipynb
+[C 14:42:02.021 NotebookApp] received signal 15, stopping
+[I 14:42:02.022 NotebookApp] Shutting down kernels
+[I 14:42:02.128 NotebookApp] Kernel shutdown: 117a2d4d-c9a5-40b5-a6ec-cd49c178be70
+[I 14:42:02.128 NotebookApp] Kernel shutdown: 60565332-b191-41d3-9267-55e562f009dc
+[I 14:42:02.129 NotebookApp] Kernel shutdown: 00678ad7-e8ec-446a-a62e-c4df3523eae1
+[I 14:42:02.129 NotebookApp] Kernel shutdown: 7f05b9eb-aa8a-42ad-9b83-911041d40bf4
