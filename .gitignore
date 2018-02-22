@@ -7,6 +7,8 @@ __pycache__/
 # C extensions
 *.so
 
+*.hdf5 
+
 # Distribution / packaging
 .Python
 env/
@@ -88,3 +90,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# data
+*.csv
